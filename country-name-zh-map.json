@@ -1,0 +1,1217 @@
+{
+    "Afghanistan": {
+        "countryZh": "阿富汗",
+        "countryEn": "Afghanistan",
+        "hasZh": true
+    },
+    "Albania": {
+        "countryZh": "阿尔巴尼亚",
+        "countryEn": "Albania",
+        "hasZh": true
+    },
+    "Algeria": {
+        "countryZh": "阿尔及利亚",
+        "countryEn": "Algeria",
+        "hasZh": true
+    },
+    "Samoa": {
+        "countryZh": "萨摩亚",
+        "countryEn": "Samoa",
+        "hasZh": true
+    },
+    "Angola": {
+        "countryZh": "安哥拉",
+        "countryEn": "Angola",
+        "hasZh": true
+    },
+    "Antigua and Barbuda": {
+        "countryZh": "安提瓜和巴布达",
+        "countryEn": "Antigua and Barbuda",
+        "hasZh": true
+    },
+    "Azerbaijan": {
+        "countryZh": "阿塞拜疆",
+        "countryEn": "Azerbaijan",
+        "hasZh": true
+    },
+    "Argentina": {
+        "countryZh": "阿根廷",
+        "countryEn": "Argentina",
+        "hasZh": true
+    },
+    "Australia": {
+        "countryZh": "澳大利亚",
+        "countryEn": "Australia",
+        "hasZh": true
+    },
+    "Austria": {
+        "countryZh": "奥地利",
+        "countryEn": "Austria",
+        "hasZh": true
+    },
+    "Bahrain": {
+        "countryZh": "巴林",
+        "countryEn": "Bahrain",
+        "hasZh": true
+    },
+    "Bangladesh": {
+        "countryZh": "孟加拉国",
+        "countryEn": "Bangladesh",
+        "hasZh": true
+    },
+    "Armenia": {
+        "countryZh": "亚美尼亚",
+        "countryEn": "Armenia",
+        "hasZh": true
+    },
+    "Barbados": {
+        "countryZh": "巴巴多斯",
+        "countryEn": "Barbados",
+        "hasZh": true
+    },
+    "Belgium": {
+        "countryZh": "比利时",
+        "countryEn": "Belgium",
+        "hasZh": true
+    },
+    "Bermuda": {
+        "countryZh": "百慕大",
+        "countryEn": "Bermuda",
+        "hasZh": true
+    },
+    "Bhutan": {
+        "countryZh": "不丹",
+        "countryEn": "Bhutan",
+        "hasZh": true
+    },
+    "Bolivia (Plurinational State of)": {
+        "countryZh": "玻利维亚",
+        "countryEn": "Bolivia (Plurinational State of)",
+        "hasZh": true
+    },
+    "Botswana": {
+        "countryZh": "博茨瓦纳",
+        "countryEn": "Botswana",
+        "hasZh": true
+    },
+    "Brazil": {
+        "countryZh": "巴西",
+        "countryEn": "Brazil",
+        "hasZh": true
+    },
+    "Belize": {
+        "countryZh": "伯利兹",
+        "countryEn": "Belize",
+        "hasZh": true
+    },
+    "Virgin Islands (British)": {
+        "countryZh": "英属维京群岛",
+        "countryEn": "Virgin Islands (British)",
+        "hasZh": true
+    },
+    "Brunei Darussalam": {
+        "countryZh": "文莱",
+        "countryEn": "Brunei Darussalam",
+        "hasZh": true
+    },
+    "Bulgaria": {
+        "countryZh": "保加利亚",
+        "countryEn": "Bulgaria",
+        "hasZh": true
+    },
+    "Burundi": {
+        "countryZh": "布隆迪",
+        "countryEn": "Burundi",
+        "hasZh": true
+    },
+    "Belarus": {
+        "countryZh": "白俄罗斯",
+        "countryEn": "Belarus",
+        "hasZh": true
+    },
+    "Cambodia": {
+        "countryZh": "柬埔寨",
+        "countryEn": "Cambodia",
+        "hasZh": true
+    },
+    "Cameroon": {
+        "countryZh": "喀麦隆",
+        "countryEn": "Cameroon",
+        "hasZh": true
+    },
+    "Canada": {
+        "countryZh": "加拿大",
+        "countryEn": "Canada",
+        "hasZh": true
+    },
+    "Cabo Verde": {
+        "countryZh": "佛得角",
+        "countryEn": "Cabo Verde",
+        "hasZh": true
+    },
+    "Cayman Islands": {
+        "countryZh": "开曼群岛",
+        "countryEn": "Cayman Islands",
+        "hasZh": true
+    },
+    "Sri Lanka": {
+        "countryZh": "斯里兰卡",
+        "countryEn": "Sri Lanka",
+        "hasZh": true
+    },
+    "Chad": {
+        "countryZh": "乍得",
+        "countryEn": "Chad",
+        "hasZh": true
+    },
+    "Chile": {
+        "countryZh": "智利",
+        "countryEn": "Chile",
+        "hasZh": true
+    },
+    "China": {
+        "countryZh": "中国",
+        "countryEn": "China",
+        "hasZh": true
+    },
+    "Taiwan (Province of China)": {
+        "countryZh": "中国台湾",
+        "countryEn": "Taiwan (Province of China)",
+        "hasZh": true
+    },
+    "Colombia": {
+        "countryZh": "哥伦比亚",
+        "countryEn": "Colombia",
+        "hasZh": true
+    },
+    "Comoros": {
+        "countryZh": "科摩罗",
+        "countryEn": "Comoros",
+        "hasZh": true
+    },
+    "Mayotte": {
+        "countryZh": "马约特",
+        "countryEn": "Mayotte",
+        "hasZh": true
+    },
+    "Costa Rica": {
+        "countryZh": "哥斯达黎加",
+        "countryEn": "Costa Rica",
+        "hasZh": true
+    },
+    "Croatia": {
+        "countryZh": "克罗地亚",
+        "countryEn": "Croatia",
+        "hasZh": true
+    },
+    "Cuba": {
+        "countryZh": "古巴",
+        "countryEn": "Cuba",
+        "hasZh": true
+    },
+    "Cyprus": {
+        "countryZh": "塞浦路斯",
+        "countryEn": "Cyprus",
+        "hasZh": true
+    },
+    "Benin": {
+        "countryZh": "贝宁",
+        "countryEn": "Benin",
+        "hasZh": true
+    },
+    "Denmark": {
+        "countryZh": "丹麦",
+        "countryEn": "Denmark",
+        "hasZh": true
+    },
+    "Dominica": {
+        "countryZh": "多米尼克",
+        "countryEn": "Dominica",
+        "hasZh": true
+    },
+    "Ecuador": {
+        "countryZh": "厄瓜多尔",
+        "countryEn": "Ecuador",
+        "hasZh": true
+    },
+    "El Salvador": {
+        "countryZh": "萨尔瓦多",
+        "countryEn": "El Salvador",
+        "hasZh": true
+    },
+    "Equatorial Guinea": {
+        "countryZh": "赤道几内亚",
+        "countryEn": "Equatorial Guinea",
+        "hasZh": true
+    },
+    "Ethiopia": {
+        "countryZh": "埃塞俄比亚",
+        "countryEn": "Ethiopia",
+        "hasZh": true
+    },
+    "Eritrea": {
+        "countryZh": "厄立特里亚",
+        "countryEn": "Eritrea",
+        "hasZh": true
+    },
+    "Estonia": {
+        "countryZh": "爱沙尼亚",
+        "countryEn": "Estonia",
+        "hasZh": true
+    },
+    "Faroe Islands": {
+        "countryZh": "法罗群岛",
+        "countryEn": "Faroe Islands",
+        "hasZh": true
+    },
+    "Fiji": {
+        "countryZh": "斐济",
+        "countryEn": "Fiji",
+        "hasZh": true
+    },
+    "Finland": {
+        "countryZh": "芬兰",
+        "countryEn": "Finland",
+        "hasZh": true
+    },
+    "France": {
+        "countryZh": "法国",
+        "countryEn": "France",
+        "hasZh": true
+    },
+    "French Guiana": {
+        "countryZh": "法属圭亚那",
+        "countryEn": "French Guiana",
+        "hasZh": true
+    },
+    "French Polynesia": {
+        "countryZh": "法属波利尼西亚",
+        "countryEn": "French Polynesia",
+        "hasZh": true
+    },
+    "Djibouti": {
+        "countryZh": "吉布提",
+        "countryEn": "Djibouti",
+        "hasZh": true
+    },
+    "Gabon": {
+        "countryZh": "加蓬",
+        "countryEn": "Gabon",
+        "hasZh": true
+    },
+    "Georgia": {
+        "countryZh": "格鲁吉亚",
+        "countryEn": "Georgia",
+        "hasZh": true
+    },
+    "Germany": {
+        "countryZh": "德国",
+        "countryEn": "Germany",
+        "hasZh": true
+    },
+    "Ghana": {
+        "countryZh": "加纳",
+        "countryEn": "Ghana",
+        "hasZh": true
+    },
+    "Gibraltar": {
+        "countryZh": "直布罗陀",
+        "countryEn": "Gibraltar",
+        "hasZh": true
+    },
+    "Kiribati": {
+        "countryZh": "基里巴斯",
+        "countryEn": "Kiribati",
+        "hasZh": true
+    },
+    "Greece": {
+        "countryZh": "希腊",
+        "countryEn": "Greece",
+        "hasZh": true
+    },
+    "Greenland": {
+        "countryZh": "格陵兰",
+        "countryEn": "Greenland",
+        "hasZh": true
+    },
+    "Grenada": {
+        "countryZh": "格林纳达",
+        "countryEn": "Grenada",
+        "hasZh": true
+    },
+    "Guadeloupe": {
+        "countryZh": "瓜德罗普",
+        "countryEn": "Guadeloupe",
+        "hasZh": true
+    },
+    "Guam": {
+        "countryZh": "关岛",
+        "countryEn": "Guam",
+        "hasZh": true
+    },
+    "Guatemala": {
+        "countryZh": "危地马拉",
+        "countryEn": "Guatemala",
+        "hasZh": true
+    },
+    "Guinea": {
+        "countryZh": "几内亚",
+        "countryEn": "Guinea",
+        "hasZh": true
+    },
+    "Guyana": {
+        "countryZh": "圭亚那",
+        "countryEn": "Guyana",
+        "hasZh": true
+    },
+    "Haiti": {
+        "countryZh": "海地",
+        "countryEn": "Haiti",
+        "hasZh": true
+    },
+    "Honduras": {
+        "countryZh": "洪都拉斯",
+        "countryEn": "Honduras",
+        "hasZh": true
+    },
+    "Hong Kong": {
+        "countryZh": "中国香港",
+        "countryEn": "Hong Kong",
+        "hasZh": true
+    },
+    "Hungary": {
+        "countryZh": "匈牙利",
+        "countryEn": "Hungary",
+        "hasZh": true
+    },
+    "Iceland": {
+        "countryZh": "冰岛",
+        "countryEn": "Iceland",
+        "hasZh": true
+    },
+    "India": {
+        "countryZh": "印度",
+        "countryEn": "India",
+        "hasZh": true
+    },
+    "Indonesia": {
+        "countryZh": "印度尼西亚",
+        "countryEn": "Indonesia",
+        "hasZh": true
+    },
+    "Iran (Islamic Republic of)": {
+        "countryZh": "伊朗",
+        "countryEn": "Iran (Islamic Republic of)",
+        "hasZh": true
+    },
+    "Iraq": {
+        "countryZh": "伊拉克",
+        "countryEn": "Iraq",
+        "hasZh": true
+    },
+    "Ireland": {
+        "countryZh": "爱尔兰",
+        "countryEn": "Ireland",
+        "hasZh": true
+    },
+    "Israel": {
+        "countryZh": "以色列",
+        "countryEn": "Israel",
+        "hasZh": true
+    },
+    "Italy": {
+        "countryZh": "意大利",
+        "countryEn": "Italy",
+        "hasZh": true
+    },
+    "Jamaica": {
+        "countryZh": "牙买加",
+        "countryEn": "Jamaica",
+        "hasZh": true
+    },
+    "Japan": {
+        "countryZh": "日本",
+        "countryEn": "Japan",
+        "hasZh": true
+    },
+    "Kazakhstan": {
+        "countryZh": "哈萨克斯坦",
+        "countryEn": "Kazakhstan",
+        "hasZh": true
+    },
+    "Jordan": {
+        "countryZh": "约旦",
+        "countryEn": "Jordan",
+        "hasZh": true
+    },
+    "Kenya": {
+        "countryZh": "肯尼亚",
+        "countryEn": "Kenya",
+        "hasZh": true
+    },
+    "Kuwait": {
+        "countryZh": "科威特",
+        "countryEn": "Kuwait",
+        "hasZh": true
+    },
+    "Kyrgyzstan": {
+        "countryZh": "吉尔吉斯斯坦",
+        "countryEn": "Kyrgyzstan",
+        "hasZh": true
+    },
+    "Lebanon": {
+        "countryZh": "黎巴嫩",
+        "countryEn": "Lebanon",
+        "hasZh": true
+    },
+    "Lesotho": {
+        "countryZh": "莱索托",
+        "countryEn": "Lesotho",
+        "hasZh": true
+    },
+    "Latvia": {
+        "countryZh": "拉脱维亚",
+        "countryEn": "Latvia",
+        "hasZh": true
+    },
+    "Liberia": {
+        "countryZh": "利比里亚",
+        "countryEn": "Liberia",
+        "hasZh": true
+    },
+    "Libya": {
+        "countryZh": "利比亚",
+        "countryEn": "Libya",
+        "hasZh": true
+    },
+    "Lithuania": {
+        "countryZh": "立陶宛",
+        "countryEn": "Lithuania",
+        "hasZh": true
+    },
+    "Luxembourg": {
+        "countryZh": "卢森堡",
+        "countryEn": "Luxembourg",
+        "hasZh": true
+    },
+    "Madagascar": {
+        "countryZh": "马达加斯加",
+        "countryEn": "Madagascar",
+        "hasZh": true
+    },
+    "Malawi": {
+        "countryZh": "马拉维",
+        "countryEn": "Malawi",
+        "hasZh": true
+    },
+    "Malaysia": {
+        "countryZh": "马来西亚",
+        "countryEn": "Malaysia",
+        "hasZh": true
+    },
+    "Maldives": {
+        "countryZh": "马尔代夫",
+        "countryEn": "Maldives",
+        "hasZh": true
+    },
+    "Mali": {
+        "countryZh": "马里",
+        "countryEn": "Mali",
+        "hasZh": true
+    },
+    "Malta": {
+        "countryZh": "马耳他",
+        "countryEn": "Malta",
+        "hasZh": true
+    },
+    "Martinique": {
+        "countryZh": "马提尼克",
+        "countryEn": "Martinique",
+        "hasZh": true
+    },
+    "Mauritania": {
+        "countryZh": "毛利塔尼亚",
+        "countryEn": "Mauritania",
+        "hasZh": true
+    },
+    "Mauritius": {
+        "countryZh": "毛里求斯",
+        "countryEn": "Mauritius",
+        "hasZh": true
+    },
+    "Mexico": {
+        "countryZh": "墨西哥",
+        "countryEn": "Mexico",
+        "hasZh": true
+    },
+    "Monaco": {
+        "countryZh": "摩纳哥",
+        "countryEn": "Monaco",
+        "hasZh": true
+    },
+    "Mongolia": {
+        "countryZh": "蒙古",
+        "countryEn": "Mongolia",
+        "hasZh": true
+    },
+    "Moldova (Republic of)": {
+        "countryZh": "摩尔多瓦",
+        "countryEn": "Moldova (Republic of)",
+        "hasZh": true
+    },
+    "Montenegro": {
+        "countryZh": "黑山共和国",
+        "countryEn": "Montenegro",
+        "hasZh": true
+    },
+    "Montserrat": {
+        "countryZh": "蒙特塞拉特",
+        "countryEn": "Montserrat",
+        "hasZh": true
+    },
+    "Morocco": {
+        "countryZh": "摩洛哥",
+        "countryEn": "Morocco",
+        "hasZh": true
+    },
+    "Mozambique": {
+        "countryZh": "莫桑比克",
+        "countryEn": "Mozambique",
+        "hasZh": true
+    },
+    "Oman": {
+        "countryZh": "阿曼",
+        "countryEn": "Oman",
+        "hasZh": true
+    },
+    "Namibia": {
+        "countryZh": "纳米比亚",
+        "countryEn": "Namibia",
+        "hasZh": true
+    },
+    "Nauru": {
+        "countryZh": "瑙鲁",
+        "countryEn": "Nauru",
+        "hasZh": true
+    },
+    "Nepal": {
+        "countryZh": "尼泊尔",
+        "countryEn": "Nepal",
+        "hasZh": true
+    },
+    "Netherlands": {
+        "countryZh": "荷兰",
+        "countryEn": "Netherlands",
+        "hasZh": true
+    },
+    "Aruba": {
+        "countryZh": "阿鲁巴",
+        "countryEn": "Aruba",
+        "hasZh": true
+    },
+    "New Caledonia": {
+        "countryZh": "新喀里多尼亚",
+        "countryEn": "New Caledonia",
+        "hasZh": true
+    },
+    "Vanuatu": {
+        "countryZh": "瓦努阿图",
+        "countryEn": "Vanuatu",
+        "hasZh": true
+    },
+    "New Zealand": {
+        "countryZh": "新西兰",
+        "countryEn": "New Zealand",
+        "hasZh": true
+    },
+    "Nicaragua": {
+        "countryZh": "尼加拉瓜",
+        "countryEn": "Nicaragua",
+        "hasZh": true
+    },
+    "Niger": {
+        "countryZh": "尼日尔",
+        "countryEn": "Niger",
+        "hasZh": true
+    },
+    "Nigeria": {
+        "countryZh": "尼日利亚",
+        "countryEn": "Nigeria",
+        "hasZh": true
+    },
+    "Norfolk Island": {
+        "countryZh": "诺福克岛",
+        "countryEn": "Norfolk Island",
+        "hasZh": true
+    },
+    "Norway": {
+        "countryZh": "挪威",
+        "countryEn": "Norway",
+        "hasZh": true
+    },
+    "Northern Mariana Islands": {
+        "countryZh": "北马里亚纳群岛",
+        "countryEn": "Northern Mariana Islands",
+        "hasZh": true
+    },
+    "Marshall Islands": {
+        "countryZh": "马绍尔群岛",
+        "countryEn": "Marshall Islands",
+        "hasZh": true
+    },
+    "Palau": {
+        "countryZh": "帕劳",
+        "countryEn": "Palau",
+        "hasZh": true
+    },
+    "Pakistan": {
+        "countryZh": "巴基斯坦",
+        "countryEn": "Pakistan",
+        "hasZh": true
+    },
+    "Panama": {
+        "countryZh": "巴拿马",
+        "countryEn": "Panama",
+        "hasZh": true
+    },
+    "Papua New Guinea": {
+        "countryZh": "巴布亚新几内亚",
+        "countryEn": "Papua New Guinea",
+        "hasZh": true
+    },
+    "Paraguay": {
+        "countryZh": "巴拉圭",
+        "countryEn": "Paraguay",
+        "hasZh": true
+    },
+    "Peru": {
+        "countryZh": "秘鲁",
+        "countryEn": "Peru",
+        "hasZh": true
+    },
+    "Philippines": {
+        "countryZh": "菲律宾",
+        "countryEn": "Philippines",
+        "hasZh": true
+    },
+    "Poland": {
+        "countryZh": "波兰",
+        "countryEn": "Poland",
+        "hasZh": true
+    },
+    "Portugal": {
+        "countryZh": "葡萄牙",
+        "countryEn": "Portugal",
+        "hasZh": true
+    },
+    "Guinea-Bissau": {
+        "countryZh": "几内亚比绍",
+        "countryEn": "Guinea-Bissau",
+        "hasZh": true
+    },
+    "Timor-Leste": {
+        "countryZh": "东帝汶",
+        "countryEn": "Timor-Leste",
+        "hasZh": true
+    },
+    "Puerto Rico": {
+        "countryZh": "波多黎各",
+        "countryEn": "Puerto Rico",
+        "hasZh": true
+    },
+    "Qatar": {
+        "countryZh": "卡塔尔",
+        "countryEn": "Qatar",
+        "hasZh": true
+    },
+    "Reunion": {
+        "countryZh": "留尼旺",
+        "countryEn": "Reunion",
+        "hasZh": true
+    },
+    "Romania": {
+        "countryZh": "罗马尼亚",
+        "countryEn": "Romania",
+        "hasZh": true
+    },
+    "Russia": {
+        "countryZh": "俄罗斯",
+        "countryEn": "Russia",
+        "hasZh": true
+    },
+    "Rwanda": {
+        "countryZh": "卢旺达",
+        "countryEn": "Rwanda",
+        "hasZh": true
+    },
+    "Saint Kitts and Nevis": {
+        "countryZh": "圣基茨和尼维斯",
+        "countryEn": "Saint Kitts and Nevis",
+        "hasZh": true
+    },
+    "Anguilla": {
+        "countryZh": "安圭拉",
+        "countryEn": "Anguilla",
+        "hasZh": true
+    },
+    "Saint Lucia": {
+        "countryZh": "圣卢西亚",
+        "countryEn": "Saint Lucia",
+        "hasZh": true
+    },
+    "Saint Pierre and Miquelon": {
+        "countryZh": "圣皮埃尔和密克隆",
+        "countryEn": "Saint Pierre and Miquelon",
+        "hasZh": true
+    },
+    "San Marino": {
+        "countryZh": "圣马力诺",
+        "countryEn": "San Marino",
+        "hasZh": true
+    },
+    "Sao Tome and Principe": {
+        "countryZh": "圣多美和普林西比",
+        "countryEn": "Sao Tome and Principe",
+        "hasZh": true
+    },
+    "Saudi Arabia": {
+        "countryZh": "沙特阿拉伯",
+        "countryEn": "Saudi Arabia",
+        "hasZh": true
+    },
+    "Senegal": {
+        "countryZh": "塞内加尔",
+        "countryEn": "Senegal",
+        "hasZh": true
+    },
+    "Serbia": {
+        "countryZh": "塞尔维亚",
+        "countryEn": "Serbia",
+        "hasZh": true
+    },
+    "Seychelles": {
+        "countryZh": "塞舌尔",
+        "countryEn": "Seychelles",
+        "hasZh": true
+    },
+    "Sierra Leone": {
+        "countryZh": "塞拉利昂",
+        "countryEn": "Sierra Leone",
+        "hasZh": true
+    },
+    "Singapore": {
+        "countryZh": "新加坡",
+        "countryEn": "Singapore",
+        "hasZh": true
+    },
+    "Slovakia": {
+        "countryZh": "斯洛伐克",
+        "countryEn": "Slovakia",
+        "hasZh": true
+    },
+    "Viet Nam": {
+        "countryZh": "越南",
+        "countryEn": "Viet Nam",
+        "hasZh": true
+    },
+    "Slovenia": {
+        "countryZh": "斯洛文尼亚",
+        "countryEn": "Slovenia",
+        "hasZh": true
+    },
+    "Somalia": {
+        "countryZh": "索马里",
+        "countryEn": "Somalia",
+        "hasZh": true
+    },
+    "South Africa": {
+        "countryZh": "南非",
+        "countryEn": "South Africa",
+        "hasZh": true
+    },
+    "Zimbabwe": {
+        "countryZh": "津巴布韦",
+        "countryEn": "Zimbabwe",
+        "hasZh": true
+    },
+    "Spain": {
+        "countryZh": "西班牙",
+        "countryEn": "Spain",
+        "hasZh": true
+    },
+    "South Sudan": {
+        "countryZh": "苏丹",
+        "countryEn": "South Sudan",
+        "hasZh": true
+    },
+    "Suriname": {
+        "countryZh": "苏里南",
+        "countryEn": "Suriname",
+        "hasZh": true
+    },
+    "Eswatini": {
+        "countryZh": "斯威士兰",
+        "countryEn": "Eswatini",
+        "hasZh": true
+    },
+    "Sweden": {
+        "countryZh": "瑞典",
+        "countryEn": "Sweden",
+        "hasZh": true
+    },
+    "Switzerland": {
+        "countryZh": "瑞士",
+        "countryEn": "Switzerland",
+        "hasZh": true
+    },
+    "Syrian Arab Republic": {
+        "countryZh": "叙利亚",
+        "countryEn": "Syrian Arab Republic",
+        "hasZh": true
+    },
+    "Tajikistan": {
+        "countryZh": "塔吉克斯坦",
+        "countryEn": "Tajikistan",
+        "hasZh": true
+    },
+    "Thailand": {
+        "countryZh": "泰国",
+        "countryEn": "Thailand",
+        "hasZh": true
+    },
+    "Togo": {
+        "countryZh": "多哥",
+        "countryEn": "Togo",
+        "hasZh": true
+    },
+    "Tonga": {
+        "countryZh": "汤加",
+        "countryEn": "Tonga",
+        "hasZh": true
+    },
+    "Trinidad and Tobago": {
+        "countryZh": "特立尼达和多巴哥",
+        "countryEn": "Trinidad and Tobago",
+        "hasZh": true
+    },
+    "United Arab Emirates": {
+        "countryZh": "阿拉伯联合酋长国",
+        "countryEn": "United Arab Emirates",
+        "hasZh": true
+    },
+    "Tunisia": {
+        "countryZh": "突尼斯",
+        "countryEn": "Tunisia",
+        "hasZh": true
+    },
+    "Turkey": {
+        "countryZh": "土耳其",
+        "countryEn": "Turkey",
+        "hasZh": true
+    },
+    "Turkmenistan": {
+        "countryZh": "土库曼斯坦",
+        "countryEn": "Turkmenistan",
+        "hasZh": true
+    },
+    "Turks and Caicos Islands": {
+        "countryZh": "特克斯和凯科斯群岛",
+        "countryEn": "Turks and Caicos Islands",
+        "hasZh": true
+    },
+    "Tuvalu": {
+        "countryZh": "图瓦卢",
+        "countryEn": "Tuvalu",
+        "hasZh": true
+    },
+    "Uganda": {
+        "countryZh": "乌干达",
+        "countryEn": "Uganda",
+        "hasZh": true
+    },
+    "Ukraine": {
+        "countryZh": "乌克兰",
+        "countryEn": "Ukraine",
+        "hasZh": true
+    },
+    "North Macedonia": {
+        "countryZh": "马其顿",
+        "countryEn": "North Macedonia",
+        "hasZh": true
+    },
+    "Egypt": {
+        "countryZh": "埃及",
+        "countryEn": "Egypt",
+        "hasZh": true
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "countryZh": "英国",
+        "countryEn": "United Kingdom of Great Britain and Northern Ireland",
+        "hasZh": true
+    },
+    "Guernsey": {
+        "countryZh": "根西岛",
+        "countryEn": "Guernsey",
+        "hasZh": true
+    },
+    "Jersey": {
+        "countryZh": "泽西岛",
+        "countryEn": "Jersey",
+        "hasZh": true
+    },
+    "Isle of Man": {
+        "countryZh": "马恩岛",
+        "countryEn": "Isle of Man",
+        "hasZh": true
+    },
+    "Tanzania, United Republic of": {
+        "countryZh": "坦桑尼亚",
+        "countryEn": "Tanzania, United Republic of",
+        "hasZh": true
+    },
+    "United States of America": {
+        "countryZh": "美国",
+        "countryEn": "United States of America",
+        "hasZh": true
+    },
+    "Burkina Faso": {
+        "countryZh": "布基纳法索",
+        "countryEn": "Burkina Faso",
+        "hasZh": true
+    },
+    "Uruguay": {
+        "countryZh": "乌拉圭",
+        "countryEn": "Uruguay",
+        "hasZh": true
+    },
+    "Uzbekistan": {
+        "countryZh": "乌兹别克斯坦",
+        "countryEn": "Uzbekistan",
+        "hasZh": true
+    },
+    "Venezuela (Bolivarian Republic of)": {
+        "countryZh": "委内瑞拉",
+        "countryEn": "Venezuela (Bolivarian Republic of)",
+        "hasZh": true
+    },
+    "Wallis and Futuna": {
+        "countryZh": "瓦利斯和富图纳",
+        "countryEn": "Wallis and Futuna",
+        "hasZh": true
+    },
+    "Yemen": {
+        "countryZh": "也门",
+        "countryEn": "Yemen",
+        "hasZh": true
+    },
+    "Zambia": {
+        "countryZh": "赞比亚",
+        "countryEn": "Zambia",
+        "hasZh": true
+    },
+   "Andorra": {
+        "countryZh": "安道尔",
+        "countryEn": "Andorra",
+        "hasZh": false
+    },
+    "Bahamas": {
+        "countryZh": "巴哈马",
+        "countryEn": "Bahamas",
+        "hasZh": false
+    },
+    "Bosnia and Herzegovina": {
+        "countryZh": "波斯尼亚和黑塞哥维那",
+        "countryEn": "Bosnia and Herzegovina",
+        "hasZh": false
+    },
+    "Bouvet Island": {
+        "countryZh": "布韦岛",
+        "countryEn": "Bouvet Island",
+        "hasZh": false
+    },
+    "British Indian Ocean Territory": {
+        "countryZh": "英属印度洋领地",
+        "countryEn": "British Indian Ocean Territory",
+        "hasZh": false
+    },
+    "Solomon Islands": {
+        "countryZh": "所罗门群岛",
+        "countryEn": "Solomon Islands",
+        "hasZh": false
+    },
+    "Myanmar": {
+        "countryZh": "缅甸",
+        "countryEn": "Myanmar",
+        "hasZh": false
+    },
+    "Central African Republic": {
+        "countryZh": "中非共和国",
+        "countryEn": "Central African Republic",
+        "hasZh": false
+    },
+    "Christmas Island": {
+        "countryZh": "圣诞岛",
+        "countryEn": "Christmas Island",
+        "hasZh": false
+    },
+    "Cocos (Keeling) Islands": {
+        "countryZh": "科科斯（基林）群岛",
+        "countryEn": "Cocos (Keeling) Islands",
+        "hasZh": false
+    },
+    "Congo": {
+        "countryZh": "刚果共和国",
+        "countryEn": "Congo",
+        "hasZh": false
+    },
+    "Congo (Democratic Republic of the)": {
+        "countryZh": "刚果民主共和国",
+        "countryEn": "Congo (Democratic Republic of the)",
+        "hasZh": false
+    },
+    "Cook Islands": {
+        "countryZh": "库克群岛",
+        "countryEn": "Cook Islands",
+        "hasZh": false
+    },
+    "Czechia": {
+        "countryZh": "捷克共和国",
+        "countryEn": "Czechia",
+        "hasZh": false
+    },
+    "Dominican Republic": {
+        "countryZh": "多米尼加共和国",
+        "countryEn": "Dominican Republic",
+        "hasZh": false
+    },
+    "Falkland Islands (Islas Malvinas)": {
+        "countryZh": "福克兰群岛（马尔维纳斯群岛）",
+        "countryEn": "Falkland Islands (Islas Malvinas)",
+        "hasZh": false
+    },
+    "South Georgia South Sandwich Islands": {
+        "countryZh": "南乔治亚岛和南桑威奇群岛",
+        "countryEn": "South Georgia South Sandwich Islands",
+        "hasZh": false
+    },
+    "Aland Islands": {
+        "countryZh": "奥兰群岛",
+        "countryEn": "Aland Islands",
+        "hasZh": false
+    },
+    "French Southern and Antarctic Lands": {
+        "countryZh": "法属南部和南极领地",
+        "countryEn": "French Southern and Antarctic Lands",
+        "hasZh": false
+    },
+    "Gambia": {
+        "countryZh": "冈比亚",
+        "countryEn": "Gambia",
+        "hasZh": false
+    },
+    "Palestine, State of": {
+        "countryZh": "巴勒斯坦",
+        "countryEn": "Palestine, State of",
+        "hasZh": false
+    },
+    "Heard Island and McDonald Islands": {
+        "countryZh": "赫德岛和麦克唐纳群岛",
+        "countryEn": "Heard Island and McDonald Islands",
+        "hasZh": false
+    },
+    "Holy See (Vatican City)": {
+        "countryZh": "梵蒂冈城（教廷）",
+        "countryEn": "Holy See (Vatican City)",
+        "hasZh": false
+    },
+    "Cote D'ivoire": {
+        "countryZh": "科特迪瓦",
+        "countryEn": "Cote D'ivoire",
+        "hasZh": false
+    },
+    "Korea (Democratic People's Republic of)": {
+        "countryZh": "朝鲜",
+        "countryEn": "Korea (Democratic People's Republic of)",
+        "hasZh": false
+    },
+    "Korea (Republic of)": {
+        "countryZh": "韩国",
+        "countryEn": "Korea (Republic of)",
+        "hasZh": false
+    },
+    "Lao People's Democratic Republic": {
+        "countryZh": "老挝",
+        "countryEn": "Lao People's Democratic Republic",
+        "hasZh": false
+    },
+    "Liechtenstein": {
+        "countryZh": "列支敦士登",
+        "countryEn": "Liechtenstein",
+        "hasZh": false
+    },
+    "Macao": {
+        "countryZh": "澳门",
+        "countryEn": "Macao",
+        "hasZh": false
+    },
+    "Netherlands Antilles": {
+        "countryZh": "荷属安的列斯",
+        "countryEn": "Netherlands Antilles",
+        "hasZh": false
+    },
+    "Niue": {
+        "countryZh": "纽埃",
+        "countryEn": "Niue",
+        "hasZh": false
+    },
+    "Micronesia (Federated States of)": {
+        "countryZh": "密克罗尼西亚联邦",
+        "countryEn": "Micronesia (Federated States of)",
+        "hasZh": false
+    },
+    "Pitcairn Islands": {
+        "countryZh": "皮特凯恩群岛",
+        "countryEn": "Pitcairn Islands",
+        "hasZh": false
+    },
+    "Saint Barthelemy": {
+        "countryZh": "圣巴泰勒米岛",
+        "countryEn": "Saint Barthelemy",
+        "hasZh": false
+    },
+    "Saint Helena": {
+        "countryZh": "圣赫勒拿岛",
+        "countryEn": "Saint Helena",
+        "hasZh": false
+    },
+    "Sint Maarten (Dutch Part)": {
+        "countryZh": "圣马丁岛",
+        "countryEn": "Sint Maarten (Dutch Part)",
+        "hasZh": false
+    },
+    "Saint Vincent and The Grenadines": {
+        "countryZh": "圣文森特和格林纳丁斯",
+        "countryEn": "Saint Vincent and The Grenadines",
+        "hasZh": false
+    },
+    "Western Sahara": {
+        "countryZh": "西撒哈拉",
+        "countryEn": "Western Sahara",
+        "hasZh": false
+    },
+    "Svalbard": {
+        "countryZh": "斯瓦尔巴群岛",
+        "countryEn": "Svalbard",
+        "hasZh": false
+    },
+    "Tokelau": {
+        "countryZh": "托克劳",
+        "countryEn": "Tokelau",
+        "hasZh": false
+    },
+    "Virgin Islands (U.S.)": {
+        "countryZh": "美属维尔京群岛",
+        "countryEn": "Virgin Islands (U.S.)",
+        "hasZh": false
+    }
+}
